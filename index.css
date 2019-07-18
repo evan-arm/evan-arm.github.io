@@ -1,0 +1,48 @@
+body {
+}
+
+body,html {
+    height: 100%;
+    margin: 0;
+}
+
+div.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-image: linear-gradient(120deg, #cbffb9ff, #89f38cff);
+    background-color: #5dee60ff;
+}
+
+div.hero {
+    text-align: center;
+    line-height: 175%;
+    padding: 1em 2em 1em 2em;
+    font-size: 22pt;
+    font-family: 'Domine', serif;
+    color: #222222;
+    max-width: 60ex;
+}
+
+a {
+    color: #007060ff;
+}
+
+div.sub {
+    font-size: 16pt;
+}
+
+div.hero img {
+    max-width: 60%;
+}
+
+div.full-width {
+    padding: 0;
+    width: 100%;
+}
+
+div.full-width img {
+    width: 100%;
+}
