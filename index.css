@@ -21,7 +21,8 @@ div.hero {
     line-height: 175%;
     padding: 1em 2em 1em 2em;
     font-size: 22pt;
-    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: medium;
     color: #222222;
     max-width: 60ex;
 }
