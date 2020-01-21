@@ -12,8 +12,8 @@ div.main-container {
     align-items: center;
     justify-content: center;
     height: 100%;
-    background-image: linear-gradient(120deg, #cbffb9ff, #89f38cff);
-    background-color: #5dee60ff;
+    background-image: linear-gradient(180deg, #101010, #10101000);
+    background-color: #202020;
 }
 
 div.hero {
@@ -22,13 +22,17 @@ div.hero {
     padding: 1em 2em 1em 2em;
     font-size: 22pt;
     font-family: 'Montserrat', sans-serif;
-    font-weight: medium;
-    color: black;
+    color: #D1DBD9;
     max-width: 60ex;
 }
 
 a {
-    color: #007060ff;
+    color: #00DCB1;
+    text-decoration: none;
+    border-color: #00DCB1 ;
+    border-bottom: 0.7px solid;
+    display: inline-block;
+    line-height: 1.05;
 }
 
 div.sub {
